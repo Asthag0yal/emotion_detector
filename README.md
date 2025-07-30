@@ -26,5 +26,15 @@ A multi-modal emotion detection system using **Text**, **Voice**, and **Webcam v
 ---
 
 ## 📂 Project Structure
+emotion_detector/
+│
+├── text_emotion_model.py # Text-based emotion detection
+├── voice_emotion_detector.py # Voice-based emotion detection
+├── webcam_emotion.py # Webcam-based emotion detection
+├── webcam/ # Supporting model/data files
+├── requirements.txt # All dependencies
+└── README.md
+
+
 
 
