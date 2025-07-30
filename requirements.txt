@@ -2,3 +2,7 @@ transformers
 torch
 speechrecognition
 pyaudio
+opencv-python
+fer
+mtcnn
+
